@@ -5,11 +5,11 @@
 It provides multiple features to send messages, edit webhook info, and manage mass-webhook actions easily.
 
 ## 〢 Features
-- [x] Send a Message - Quickly send any text to a selected webhook
-- [x] Change Webhook PFP - Update the avatar of the webhook
-- [x] Change Webhook Name - Modify the webhook display name
-- [x] Spam All Webhooks - Send high-speed messages through all saved webhooks
-- [x] Delete All Webhooks - Instantly remove every stored webhook
+- [x] Send a Message - Quickly send any text to a selected webhook.
+- [x] Change Webhook PFP - Update the avatar of the webhook.
+- [x] Change Webhook Name - Modify the webhook display name.
+- [x] Spam All Webhooks - Send high-speed messages through all saved webhooks.
+- [x] Delete All Webhooks - Instantly remove every stored webhook.
 ## 〢 Tutorial
 
 1. Download the `.zip` file and run`webhooks.txt` file 
