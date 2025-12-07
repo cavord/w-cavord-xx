@@ -12,7 +12,7 @@ It provides multiple features to send messages, edit webhook info, and manage ma
 - [x] Delete All Webhooks - Instantly remove every stored webhook
 ## 〢 Tutorial
 
-1. Download the `.exe` file and run`webhooks.txt` file 
+1. Download the `.zip` file and run`webhooks.txt` file 
 2. Paste your webhook URL inside, then press `Ctrl + S` to save.
 3. Open the `.exe` file and start using the tool.
 
